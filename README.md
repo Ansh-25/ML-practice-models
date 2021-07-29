@@ -13,7 +13,7 @@ Contain notes of several python libraries and basic ML models made by me
         - [ ] Softmax linear classifier :construction:
         - [x] Logistic regression  
         - [x] Decision tree  
-        - [ ] Random forest 
+        - [x] Random forest 
         - [ ] Naïve Bayes  
         - [x] KNN  
 2. Unsupervised learning
