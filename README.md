@@ -1,5 +1,5 @@
 # ML-practice-models
-contains notes of several python libraries and basic ML model made by me
+Contain notes of several python libraries and basic ML models made by me
 
 ## ML algorithms
 1. Supervised learning  
